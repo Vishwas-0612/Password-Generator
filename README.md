@@ -33,24 +33,9 @@ Before you begin, ensure you have installed:
 3. Click the "Generate" button to create your password
 4. Use the copy button to transfer your password to the clipboard securely
 
-## Contributing
+##Screenshot
+![image](https://github.com/user-attachments/assets/912bc6d4-9bfe-4fc8-b9ed-c3bae24f0af0)
 
-We welcome contributions from the community! Here's how you can help:
-
-1. Fork the repository
-2. Create your feature branch:
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m 'Add some AmazingFeature'
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. Open a Pull Request
 
 ## Roadmap
 
