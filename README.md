@@ -23,24 +23,6 @@ Before you begin, ensure you have installed:
 - Node.js (for local development)
 - Yarn (preferred package manager)
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd password-generator
-   ```
-
-2. Install dependencies:
-   ```bash
-   yarn install
-   ```
-
-3. Start the application:
-   ```bash
-   yarn start
-   ```
-
 ## Usage
 
 1. Launch the application in your web browser
@@ -49,7 +31,7 @@ Before you begin, ensure you have installed:
    - Select character types to include (uppercase, lowercase, numbers, symbols)
    - Enable/disable readable mode to avoid ambiguous characters
 3. Click the "Generate" button to create your password
-4. Use the copy button to transfer your password to clipboard securely
+4. Use the copy button to transfer your password to the clipboard securely
 
 ## Contributing
 
