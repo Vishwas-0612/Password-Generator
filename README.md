@@ -34,6 +34,7 @@ Before you begin, ensure you have installed:
 4. Use the copy button to transfer your password to the clipboard securely
 
 ##Screenshot
+
 ![image](https://github.com/user-attachments/assets/912bc6d4-9bfe-4fc8-b9ed-c3bae24f0af0)
 
 
